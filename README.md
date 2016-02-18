@@ -3,9 +3,8 @@
 
 Build your knowledge - Publish your expertise - Here is mine:
 
-![](Badge.svg)
-
+![](https://raw.githubusercontent.com/rougier/scipy-badges/master/badge.svg)
 
 ### Badge sheet
 
-![](Scientific Python Badges.svg)
+![](https://raw.githubusercontent.com/rougier/scipy-badges/master/badge-sheet.svg)
