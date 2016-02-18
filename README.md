@@ -7,4 +7,4 @@ Build your knowledge - Publish your expertise - Here is mine:
 
 ### Badge sheet
 
-![](https://raw.githubusercontent.com/rougier/scipy-badges/master/badge-sheet.pdf)
+![](https://raw.githubusercontent.com/rougier/scipy-badges/master/badge-sheet.png)

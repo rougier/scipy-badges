@@ -15,8 +15,8 @@
    id="svg3943"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="badge sheet.svg"
-   inkscape:export-filename="/Users/rougier/Development/Public/SciPy-Badges/Scientific Python Badges.png"
+   sodipodi:docname="badge-sheet.svg"
+   inkscape:export-filename="/Users/rougier/Development/Public/SciPy-Badges/badge-sheet.png"
    inkscape:export-xdpi="61.779999"
    inkscape:export-ydpi="61.779999">
   <defs
@@ -64,15 +64,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.81659266"
-     inkscape:cx="546.872"
-     inkscape:cy="437.18247"
+     inkscape:cx="699.9471"
+     inkscape:cy="486.16651"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
      inkscape:window-width="1664"
      inkscape:window-height="996"
      inkscape:window-x="7"
-     inkscape:window-y="51"
+     inkscape:window-y="74"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7325,7 +7325,7 @@
          sodipodi:role="line"
          x="706.67914"
          y="465.18066"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#20435c;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Light';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#20435c;fill-opacity:1"
          id="tspan9344-5">Drag and snap..</tspan><tspan
          sodipodi:role="line"
          x="706.67914"
