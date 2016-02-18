@@ -1,12 +1,10 @@
 
 ### Scientific Python Badges
 
-**Build your knowledge**
-**Publish your expertise**
+**Build your knowledg, publish your expertise** (but please, don't tattoo it...)
 
-![](https://raw.githubusercontent.com/rougier/scipy-badges/master/Badge.png)
+<img src="https://raw.githubusercontent.com/rougier/scipy-badges/master/Badge.png" alt="badge" width="300px" height="300px">
 
-But please, don't tattoo it...
 
 
 ### Badge sheet
