@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   viewBox="0 0 511.99996 512.00001"
+   width="500"
+   height="500"
+   viewBox="0 0 499.99996 500.00001"
    id="svg5456"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Badge.svg">
+   sodipodi:docname="badge.svg"
+   inkscape:export-filename="/Users/rougier/Development/Public/scipy-badges/badge.png"
+   inkscape:export-xdpi="184.32001"
+   inkscape:export-ydpi="184.32001">
   <defs
      id="defs5458" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5605469"
-     inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:zoom="1.598"
+     inkscape:cx="139.86233"
+     inkscape:cy="250"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +43,8 @@
      inkscape:window-height="1001"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5461">
     <rdf:RDF>
@@ -49,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,12 +61,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-222.66339,-111.08692)">
+     transform="translate(-222.66339,-123.08692)">
     <g
-       id="g7134"
-       transform="translate(29.480175,-36.50942)">
+       id="g4486"
+       transform="translate(-6.0000053,5.9999998)">
       <g
-         transform="translate(12.98737,-92.04731)"
+         transform="translate(42.467545,-128.55673)"
          id="g4315-5-5-3">
         <path
            style="fill:#20435c;fill-opacity:1;stroke:#ffffff;stroke-width:5.8288703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -145,7 +149,7 @@
         </g>
       </g>
       <g
-         transform="translate(86.45234,32.27393)"
+         transform="translate(115.93252,-4.23549)"
          id="g4301-1-9-7">
         <path
            style="fill:#20435c;fill-opacity:1;stroke:#ffffff;stroke-width:5.8288703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -253,7 +257,7 @@
         </g>
       </g>
       <g
-         transform="translate(228.17663,-270.67684)"
+         transform="translate(257.6568,-307.18626)"
          id="g7870-3">
         <path
            style="fill:#20435c;fill-opacity:1;stroke:#ffffff;stroke-width:5.8288703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -308,6 +312,7 @@
         </g>
       </g>
       <g
+         transform="translate(29.480175,-36.50942)"
          id="g7006">
         <path
            style="fill:#20435c;fill-opacity:1;stroke:#ffffff;stroke-width:5.8288703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1029,7 +1034,7 @@
         </g>
       </g>
       <g
-         transform="translate(241.95435,160.49278)"
+         transform="translate(271.43452,123.98336)"
          id="g7356-8">
         <path
            style="fill:#20435c;fill-opacity:1;stroke:#ffffff;stroke-width:5.8288703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1078,7 +1083,7 @@
            sodipodi:type="star" />
       </g>
       <g
-         transform="translate(-622.41389,-17.42713)"
+         transform="translate(-592.93371,-53.93655)"
          id="g5707">
         <path
            style="fill:#20435c;fill-opacity:1;stroke:#ffffff;stroke-width:5.8288703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1133,7 +1138,7 @@
            style="fill:#fffeff;fill-opacity:1;stroke:none" />
       </g>
       <g
-         transform="translate(-623.03798,-17.42713)"
+         transform="translate(-593.5578,-53.93655)"
          id="g5703">
         <path
            style="fill:#20435c;fill-opacity:1;stroke:#ffffff;stroke-width:5.8288703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1148,6 +1153,23 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccc" />
       </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4305"
+         y="489.02744"
+         x="405.75497"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4309"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#20435c;fill-opacity:1"
+           y="489.02744"
+           x="405.75497"
+           sodipodi:role="line">Nicolas Rougier</tspan><tspan
+           id="tspan4313"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#20435c;fill-opacity:1"
+           y="505.33115"
+           x="405.75497"
+           sodipodi:role="line">github.com/rougier</tspan></text>
     </g>
   </g>
 </svg>
